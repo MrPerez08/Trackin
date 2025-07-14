@@ -1,0 +1,6 @@
+Tracking App
+
+Bare bones basic program that runs on android devices that only picks up coordinate data 
+UI (on/off)
+When on is clicked, coordinate data is logged (every 500 ms) 
+When off is clicked, data logging stops and final mileage is recorded.
