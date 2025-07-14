@@ -1,6 +1,31 @@
 Tracking App
 
+(STEP ONE BWATA)
 Bare bones basic program that runs on android devices that only picks up coordinate data 
 UI (on/off)
 When on is clicked, coordinate data is logged (every 500 ms) 
 When off is clicked, data logging stops and final mileage is recorded.
+
+All data is stored on a database which will be used for analysis on dev systems
+
+how to track:
+    elevation
+    acceleration
+    speed
+    distance
+
+
+Optional (prototype map)
+    possibly using google maps api, highlight the sidewalk areas (drop nodes using coordinate data and color it)
+    this step is more like a test to check coordinate data and basic visualization
+
+
+
+
+
+
+
+
+
+
+
